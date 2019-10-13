@@ -1,0 +1,8 @@
+.project
+.DS_STORE
+idea-files/
+target/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
